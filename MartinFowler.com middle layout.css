@@ -1,0 +1,8 @@
+/* ==UserStyle==
+@name        MartinFowler.com middle layout
+@description make all element apper in the middle of the page
+@match       *://*martinfowler.*
+==/UserStyle== */
+main, #banner, #page-footer, .navmenu {
+    margin: auto;
+}
